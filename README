@@ -1,0 +1,11 @@
+A simple plugin that allows you to easily filter a table based on the
+values in that table. Install by simply adding:
+
+    gem 'filtered_list'
+
+to your Gemfile. This plugin is only compatible with Rails 3. Support
+for older versions of Rails was dropped and is no longer available.
+
+= CREDIT
+
+This library was developed by Eric Anderson (http://pixelwareinc.com).
